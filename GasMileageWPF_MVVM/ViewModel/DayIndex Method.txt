@@ -1,0 +1,42 @@
+﻿public int DayIndex
+        {
+            get
+            {                
+                DateTime today = DateTime.Today;
+
+                int maxDayIndex = 0;
+                
+                float fltBaseDay;
+                float increment = 0.1f;
+                                
+                for (int i = 0; i < DaysList.Count; i++)
+                {
+                    // Get the index of the current day
+                    if (DaysList[i].fltDay == today.Day)
+                    {
+                        fltBaseDay = today.Day;
+                        int j = i;
+
+                        while (DaysList[j].fltDay == fltBaseDay)
+                        {
+                            fltBaseDay += increment;
+                            j++;
+                            maxDayIndex = j;
+                        }
+                        _dayIndex = maxDayIndex - 1;
+                        Console.WriteLine("Get DayIndex._dayIndex: " + _dayIndex);
+                    }
+                }
+                return _dayIndex;
+            }
+
+            set
+            {
+                if (_dayIndex != value)
+                {
+                    _dayIndex = value;
+                    Console.WriteLine("Set current day index..." + _dayIndex);
+                    RaisePropertyChanged("DayIndex");
+                }
+            }
+        }

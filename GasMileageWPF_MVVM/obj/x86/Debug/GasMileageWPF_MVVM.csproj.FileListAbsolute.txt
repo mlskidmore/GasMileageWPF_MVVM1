@@ -1,0 +1,95 @@
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe.config
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.pdb
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.dll
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.dll
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.dll
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.xml
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.xml
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.xml
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csprojResolveAssemblyReference.cache
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.g.cs
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\App.g.cs
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.cache
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.lref
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.baml
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.g.resources
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.Properties.Resources.resources
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csproj.GenerateResource.Cache
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.exe
+G:\Vault\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe.config
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csprojResolveAssemblyReference.cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\App.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.lref
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.baml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.g.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.Properties.Resources.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csproj.GenerateResource.Cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe.config
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\EntityFramework.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\EntityFramework.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csprojResolveAssemblyReference.cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\App.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.lref
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.baml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.g.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.Properties.Resources.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM - Copy\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csproj.GenerateResource.Cache
+G:\Documents\Programming\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe.config
+G:\Documents\Programming\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe.config
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\EntityFramework.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\EntityFramework.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\EntityFramework.SqlServer.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\bin\Debug\System.Data.SQLite.xml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\App.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM_MarkupCompile.lref
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\MainWindow.baml
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.g.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.Properties.Resources.resources
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csproj.GenerateResource.Cache
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.exe
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.pdb
+G:\Documents\Programming\Visual Studio 2013\GasMileageWPF_MVVM1\GasMileageWPF_MVVM\obj\x86\Debug\GasMileageWPF_MVVM.csprojResolveAssemblyReference.cache
